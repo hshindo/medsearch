@@ -14,5 +14,4 @@ $ pip install wikipedia2vec
 ```
 python wiki2vec_search.py 膵癌 10
 ```
-引数は，`entity` `類義語の個数`です．  
-entityとは，Wikipediaのページタイトルです．
+引数は，`word` `類義語の個数`です．  
